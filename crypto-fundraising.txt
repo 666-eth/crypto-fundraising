@@ -1558,7 +1558,7 @@ sentio,https://twitter.com/sentioxyz
 polyhedra,https://twitter.com/PolyhedraZK
 tiplink,https://twitter.com/TipLinkOfficial
 intu,https://twitter.com/IntuOfficial
-kaito,https://twitter.com/_kaitoai
+kaito,https://twitter.com/kaitoai
 black-stallion,https://twitter.com/BlackStallionio
 superchain,https://twitter.com/OpenSuperchain
 polybase,https://twitter.com/polybase_xyz
